@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialogview.xml.flat",
+        "source": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\src\\main\\res\\layout\\dialogview.xml"
+    },
+    {
+        "merged": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\build\\intermediates\\res\\merged\\debug\\layout_dobot_activity.xml.flat",
+        "source": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\src\\main\\res\\layout\\dobot_activity.xml"
+    },
+    {
+        "merged": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg3.jpg.flat",
+        "source": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotProject\\app\\src\\main\\res\\drawable-hdpi\\bg3.jpg"
+    }
+]
