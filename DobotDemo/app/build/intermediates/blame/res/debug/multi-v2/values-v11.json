@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "D:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/res/values-v11/styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",

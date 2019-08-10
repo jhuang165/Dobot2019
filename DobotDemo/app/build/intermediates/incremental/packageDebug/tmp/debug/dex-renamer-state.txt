@@ -1,4 +1,4 @@
-#Fri Feb 15 11:20:00 CST 2019
+#Sat Aug 10 14:40:40 CST 2019
 path.1=classes.dex
 path.0=classes.dex
 renamed.10=classes11.dex
@@ -10,19 +10,19 @@ renamed.5=classes6.dex
 renamed.4=classes5.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
-base.9=D\:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+base.9=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/21
 renamed.1=classes2.dex
-base.8=D\:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+base.8=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/11
 renamed.0=classes.dex
-base.7=D\:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-base.6=D\:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
-base.5=D\:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-base.4=D\:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\17
-base.3=D\:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-base.2=D\:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\21
-base.1=D\:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.0=D\:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
-base.10=D\:\\File_My\\AndroidFile\\AndroidStudio_APPList\\DobotDemoForAndroid\\DobotDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+base.7=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/17
+base.6=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/14
+base.5=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/15
+base.4=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/12
+base.3=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/18
+base.2=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/19
+base.1=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/16
+base.0=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/20
+base.10=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/13
 path.10=classes.dex
 path.9=classes.dex
 path.8=classes.dex
