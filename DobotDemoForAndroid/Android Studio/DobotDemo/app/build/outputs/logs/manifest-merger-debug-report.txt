@@ -1,77 +1,77 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:2:1-31:12
-INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
-ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:11:1-63
+ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:11:1-63
 	android:name
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:11:18-61
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:11:18-61
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:12:1-69
+ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:12:1-69
 	android:name
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:12:18-67
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:12:18-67
 uses-feature#android.hardware.bluetooth_le
-ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:13:1-86
+ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:13:1-86
 	android:required
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:13:60-83
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:13:60-83
 	android:name
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:13:15-59
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:13:15-59
 application
-ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:15:5-29:19
+ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:15:5-29:19
 	android:label
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:18:9-41
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:18:9-41
 	android:icon
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:17:9-43
 	android:allowBackup
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:16:9-35
 	android:theme
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:19:9-40
 activity#com.example.helloworld.MainActivity
-ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:20:9-28:20
+ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:20:9-28:20
 	android:label
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:22:13-45
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:22:13-45
 	android:name
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:21:13-41
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:21:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml:26:27-74
 uses-sdk
-INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
-INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
-INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
-INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
+INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
-		ADDED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
-		INJECTED from D:\File_My\AndroidFile\AndroidStudio_APPList\DobotDemoForAndroid\DobotDemo\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/programming-xcode/GitHub/Dobot2019/DobotDemoForAndroid/Android Studio/DobotDemo/app/src/main/AndroidManifest.xml

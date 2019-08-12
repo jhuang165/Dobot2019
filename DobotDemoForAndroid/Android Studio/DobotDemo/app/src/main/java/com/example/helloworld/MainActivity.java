@@ -25,8 +25,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class MainActivity extends Activity implements DobotCallbacks {
-
+x
     Dobot dobot;
 
     private Button X1, X2, Y1, Y2, Z1, Z2;

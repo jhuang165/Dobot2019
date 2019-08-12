@@ -88,11 +88,12 @@
 
     <Button
         android:id="@+id/button9"
-        android:layout_width="wrap_content"
+        android:layout_width="320dp"
         android:layout_height="wrap_content"
         android:layout_alignBaseline="@+id/button2"
-        android:layout_alignBottom="@+id/button2"
         android:layout_alignRight="@+id/button7"
+        android:layout_alignBottom="@+id/button2"
+        android:layout_marginLeft="274dp"
         android:layout_toRightOf="@+id/button4"
         android:text="GetPose" />
 
@@ -107,12 +108,12 @@
 
     <Button
         android:id="@+id/button10"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
+        android:layout_width="198dp"
+        android:layout_height="43dp"
         android:layout_below="@+id/button5"
-        android:layout_marginRight="24dp"
-        android:layout_marginTop="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginRight="410dp"
         android:layout_toLeftOf="@+id/button6"
         android:text="PTPCmd" />
 
