@@ -1,0 +1,4 @@
+#Sat Aug 10 14:40:38 CST 2019
+base.0=/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
