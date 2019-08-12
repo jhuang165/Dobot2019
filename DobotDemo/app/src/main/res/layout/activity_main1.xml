@@ -2,147 +2,100 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent" >
-    
-    
 
-    <Button
-        android:id="@+id/button3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/button2"
-        android:layout_below="@+id/button2"
-        android:layout_marginTop="50dp"
-        android:text="X+" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="vertical">
+    </LinearLayout>
 
-    <Button
-        android:id="@+id/button5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/button3"
-        android:layout_below="@+id/button3"
-        android:text="X-" /> 
-
-    <!-- <TextView
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_toRightOf="@+id/button3"
-        android:text="DobotDemo"
-        android:textSize="30dp" /> -->
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="184dp"
+        android:layout_marginBottom="0dp"
+        android:orientation="vertical">
 
-    <Button
-        android:id="@+id/connectButton"
-        style="@android:style/Widget.Button"
-        android:layout_width="wrap_content"
-        android:layout_height="65dp"
-        android:layout_alignParentStart="false"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="false"
-        android:layout_alignParentRight="true"
-        android:layout_marginStart="123dp"
-        android:layout_marginLeft="3dp"
-        android:layout_marginTop="15dp"
+        <LinearLayout
+            android:paddingStart="40dp"
+            android:paddingEnd="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="0dp">
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="174dp"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="25dp"
+                android:background="#BDBDBD"
+                android:elevation='1dp'
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="174dp"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="25dp"
+                android:background="#BDBDBD"
+                android:elevation='1dp'
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="174dp"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="25dp"
+                android:background="#BDBDBD"
+                android:elevation='1dp'
+                android:orientation="horizontal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:paddingStart="145dp"
+            android:paddingEnd="145dp">
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="174dp"
+                android:layout_marginTop="25dp"
+                android:layout_weight="1"
+                android:background="#BDBDBD"
+                android:elevation='1dp'
+                android:orientation="horizontal" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="174dp"
+                android:layout_marginStart="40dp"
+                android:layout_marginTop="25dp"
+                android:layout_weight="1"
+                android:background="#BDBDBD"
+                android:elevation='1dp'
+                android:orientation="horizontal" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="184dp"
+        android:layout_height="460dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
         android:layout_marginEnd="0dp"
-        android:layout_marginRight="3dp"
-        android:text="Click to connect Dobot" />
-
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/button5"
-        android:layout_centerHorizontal="true"
-        android:text="Y+" />
-
-    <Button
-        android:id="@+id/button6"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/button5"
-        android:layout_alignBottom="@+id/button5"
-        android:layout_alignLeft="@+id/button4"
-        android:layout_alignRight="@+id/button4"
-        android:text="Y-" />
-
-    <Button
-        android:id="@+id/button7"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/button4"
-        android:layout_alignBottom="@+id/button4"
-        android:layout_alignParentRight="true"
-        android:layout_marginRight="14dp"
-        android:text="Z+" />
-
-    <Button
-        android:id="@+id/button8"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/button6"
-        android:layout_alignBottom="@+id/button6"
-        android:layout_alignLeft="@+id/button7"
-        android:text="Z-" />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/connectButton"
-        android:layout_alignParentLeft="false"
-        android:layout_marginTop="28dp"
-        android:text="GetDeviceSN" />
-
-    <Button
-        android:id="@+id/button9"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/button2"
-        android:layout_alignBottom="@+id/button2"
-        android:layout_alignRight="@+id/button7"
-        android:layout_toRightOf="@+id/button4"
-        android:text="GetPose" />
-
-    <Button
-        android:id="@+id/button10"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@+id/button5"
-        android:layout_marginRight="24dp"
-        android:layout_marginTop="20dp"
-        android:layout_toLeftOf="@+id/button6"
-        android:text="PTPCmd" />
-
-    <Button
-        android:id="@+id/button11"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/button10"
-        android:layout_alignBottom="@+id/button10"
-        android:layout_alignRight="@+id/button8"
-        android:layout_marginRight="29dp"
-        android:text="StartQueue" />
-
-    <Button
-        android:id="@+id/button12"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentLeft="true"
-        android:layout_below="@+id/button10"
-        android:layout_marginTop="18dp"
-        android:textSize="14dp"
-        android:text="ForceStopQueue" />
-
-    <Button
-        android:id="@+id/button13"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignBaseline="@+id/button12"
-        android:layout_alignBottom="@+id/button12"
-        android:layout_alignLeft="@+id/button11"
-        android:layout_alignRight="@+id/button11"
-        android:text="ClearQueue"
-        android:textSize="14dp" />
+        android:layout_marginBottom="1dp"
+        android:orientation="horizontal"></LinearLayout>
 
 </RelativeLayout>

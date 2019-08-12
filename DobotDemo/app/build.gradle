@@ -20,4 +20,5 @@ android {
 
 dependencies {
     implementation files('libs/Dobot.jar')
+    implementation 'androidx.cardview:cardview:1.0.0'
 }

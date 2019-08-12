@@ -129,6 +129,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: __local_aars__:/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/libs/Dobot.jar:unspecified@jar" level="project" />
   </component>
 </module>

@@ -4,6 +4,7 @@ ADDED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidMan
 INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
 INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
 INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kevin/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/e8b16028da44f9659e3158f0b6d66d8b/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
 INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
 INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml:2:1-31:12
@@ -21,6 +22,12 @@ INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/Android
 		ADDED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml:4:5-28
 		INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml:8:5-90
+	android:required
+		ADDED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml:8:63-87
+	android:name
+		ADDED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml:8:19-62
 uses-permission#android.permission.BLUETOOTH
 ADDED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml:11:1-63
 	android:name
@@ -65,6 +72,8 @@ uses-sdk
 INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml
 INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kevin/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/e8b16028da44f9659e3158f0b6d66d8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kevin/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/e8b16028da44f9659e3158f0b6d66d8b/AndroidManifest.xml:20:5-44
 INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml
 INJECTED from /Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

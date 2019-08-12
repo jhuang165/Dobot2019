@@ -1,6 +1,22 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/kevin/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/e8b16028da44f9659e3158f0b6d66d8b/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
             "map": [
                 {
@@ -30,18 +46,16 @@
                 {
                     "source": "/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/res/values/dimens.xml",
                     "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "92,151",
-                        "endColumns": "57,55",
-                        "endOffsets": "145,202"
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
                     },
                     "to": {
-                        "startLines": "2,3",
+                        "startLines": "7,8",
                         "startColumns": "4,4",
-                        "startOffsets": "55,113",
+                        "startOffsets": "356,414",
                         "endColumns": "57,55",
-                        "endOffsets": "108,164"
+                        "endOffsets": "409,465"
                     }
                 },
                 {
@@ -49,35 +63,49 @@
                     "from": {
                         "startLines": "6,15",
                         "startColumns": "4,4",
-                        "startOffsets": "191,522",
+                        "startOffsets": "192,525",
                         "endLines": "12,17",
                         "endColumns": "12,12",
-                        "endOffsets": "481,679"
+                        "endOffsets": "484,682"
                     },
                     "to": {
-                        "startLines": "7,14",
+                        "startLines": "15,22",
                         "startColumns": "4,4",
-                        "startOffsets": "322,613",
-                        "endLines": "13,16",
+                        "startOffsets": "793,1084",
+                        "endLines": "21,24",
                         "endColumns": "12,12",
-                        "endOffsets": "608,768"
+                        "endOffsets": "1079,1239"
+                    }
+                },
+                {
+                    "source": "/Users/kevin/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/e8b16028da44f9659e3158f0b6d66d8b/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,9,10,11,25,32,34,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,168,230,292,470,529,586,1244,1658,1722,1848",
+                        "endLines": "2,3,4,5,6,9,10,11,31,33,36,39",
+                        "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "102,163,225,287,351,524,581,635,1653,1717,1843,1971"
                     }
                 },
                 {
                     "source": "/Users/kevin/Desktop/Apps/Dobot2019/DobotDemo/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "5,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "160,58,106",
-                        "endColumns": "52,46,52",
-                        "endOffsets": "208,100,154"
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "4,5,6",
+                        "startLines": "12,13,14",
                         "startColumns": "4,4,4",
-                        "startOffsets": "169,222,269",
+                        "startOffsets": "640,693,740",
                         "endColumns": "52,46,52",
-                        "endOffsets": "217,264,317"
+                        "endOffsets": "688,735,788"
                     }
                 }
             ]
