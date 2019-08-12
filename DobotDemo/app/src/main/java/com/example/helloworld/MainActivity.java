@@ -58,7 +58,7 @@ public class MainActivity extends Activity implements DobotCallbacks {
         display = (TextView) findViewById(R.id.textView1);
 
 
-        Connect = (Button) findViewById(R.id.button1);
+        Connect = (Button) findViewById(R.id.connectButton);
         Connect.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
