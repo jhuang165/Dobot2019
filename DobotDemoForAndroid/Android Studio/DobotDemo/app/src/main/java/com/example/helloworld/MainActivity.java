@@ -61,7 +61,6 @@ x
         Connect.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-
                 if (isConnect == false) {
                     dobot.Connect();
                 } else {
@@ -121,7 +120,7 @@ x
                 // TODO Auto-generated method stub
 
                 display.setText("");
-                dobot.GetPose(new DataReceiveListener() {
+                  dobot.GetPose(new DataReceiveListener() {
 
                     @Override
                     public void OnReceive() {
