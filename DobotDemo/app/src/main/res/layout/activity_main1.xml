@@ -21,38 +21,41 @@
 
         <LinearLayout
             android:paddingStart="40dp"
-            android:paddingEnd="20dp"
+            android:paddingEnd="40dp"
+            android:gravity="center"
+            android:paddingTop="40dp"
+            android:paddingBottom="40dp"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:layout_marginTop="0dp">
+            android:layout_marginTop="0dp"
+            android:baselineAligned="false">
 
             <LinearLayout
-                android:layout_weight="1"
-                android:layout_width="0dp"
-                android:layout_height="174dp"
+                android:layout_width="160dp"
+                android:layout_height="175dp"
                 android:layout_marginStart="0dp"
-                android:layout_marginTop="25dp"
+                android:layout_weight="1"
+                android:background="#BDBDBD"
+                android:elevation='1dp'
+                android:orientation="horizontal"
+
+                />
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="160dp"
+                android:layout_height="175dp"
+                android:layout_marginStart="40dp"
                 android:background="#BDBDBD"
                 android:elevation='1dp'
                 android:orientation="horizontal" />
 
             <LinearLayout
-                android:layout_weight="1"
-                android:layout_width="0dp"
-                android:layout_height="174dp"
+                android:layout_width="160dp"
+                android:layout_height="175dp"
                 android:layout_marginStart="40dp"
-                android:layout_marginTop="25dp"
-                android:background="#BDBDBD"
-                android:elevation='1dp'
-                android:orientation="horizontal" />
-
-            <LinearLayout
                 android:layout_weight="1"
-                android:layout_width="0dp"
-                android:layout_height="174dp"
-                android:layout_marginStart="40dp"
-                android:layout_marginTop="25dp"
                 android:background="#BDBDBD"
                 android:elevation='1dp'
                 android:orientation="horizontal" />
@@ -61,25 +64,28 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
+            android:layout_alignStart="@+id/null"
             android:layout_weight="1"
-            android:paddingStart="145dp"
-            android:paddingEnd="145dp">
+            android:gravity="center"
+            android:baselineAligned="false"
+            android:paddingTop="40dp"
+            android:paddingBottom="40dp"
+            android:paddingStart="110dp"
+            android:paddingEnd="110dp">
 
 
             <LinearLayout
-                android:layout_width="0dp"
-                android:layout_height="174dp"
-                android:layout_marginTop="25dp"
+                android:layout_width="160dp"
+                android:layout_height="175dp"
                 android:layout_weight="1"
                 android:background="#BDBDBD"
                 android:elevation='1dp'
                 android:orientation="horizontal" />
 
             <LinearLayout
-                android:layout_width="0dp"
-                android:layout_height="174dp"
+                android:layout_width="160dp"
+                android:layout_height="175dp"
                 android:layout_marginStart="40dp"
-                android:layout_marginTop="25dp"
                 android:layout_weight="1"
                 android:background="#BDBDBD"
                 android:elevation='1dp'
@@ -89,13 +95,14 @@
     </LinearLayout>
 
     <LinearLayout
+        android:layout_marginTop="80dp"
         android:layout_width="184dp"
-        android:layout_height="460dp"
+        android:layout_height="match_parent"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="20dp"
         android:layout_marginEnd="0dp"
-        android:layout_marginBottom="1dp"
+        android:layout_marginBottom="0dp"
         android:orientation="horizontal"></LinearLayout>
+
 
 </RelativeLayout>
